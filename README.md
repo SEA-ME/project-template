@@ -1,2 +1,2 @@
-# 42ASE.template
-Template repository for a 42ASE (42 Automotive Software Engineering) project.
+# project template
+Template repository for a SEA:ME (OER) project.
