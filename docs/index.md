@@ -9,10 +9,6 @@ Short description of the project
 Duration in hours
 
 
-# Experience Points
-Points in numbers
-
-
 # Skills
 * Skill 1
 * Skill 2
