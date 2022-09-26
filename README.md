@@ -1,2 +1,2 @@
 # project template
-Template repository for a SEA:ME (OER) project.
+Please find the subject file in subject folder.
